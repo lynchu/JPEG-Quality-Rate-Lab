@@ -1,0 +1,23 @@
+# Compiled program and object files
+/jpegtool
+*.o
+
+# Python environment and caches
+/.venv/
+__pycache__/
+*.pyc
+/.pytest_cache/
+
+# New local experiments
+/runs/
+/rerun/
+/camera_results/
+
+# Temporary output files
+*.tmp.*
+
+# Editor and operating-system files
+*.swp
+.DS_Store
+Thumbs.db
+~$*.docx

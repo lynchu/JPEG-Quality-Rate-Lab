@@ -1,0 +1,8 @@
+{
+  "input_sha256": "bc8cd2ffd5a44f9470e6630517f05360746f6061e6c1142b0ea7ee677c9584b4",
+  "width": 512,
+  "height": 600,
+  "repeats": 7,
+  "reference": "decoded input JPEG; RGB sample MSE",
+  "timing": "C tool monotonic wall clock, warmup + median; includes JPEG read/write and temporary-file rename, excludes process launch; no fsync"
+}
